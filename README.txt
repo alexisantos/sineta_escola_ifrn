@@ -1,0 +1,1 @@
+Projeto de acionamento de sineta de horários de aula para IFRN, Campus São Paulo do Potengi utilizando Arduino, display LCD e RTC DS1307.
